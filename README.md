@@ -1,2 +1,2 @@
 # textscroll-using-javascropt
-https://soumyajit-web.github.io/textscroll-using-javascropt/
+https://soumyajit-webdev.github.io/textscroll-using-javascropt/
